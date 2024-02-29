@@ -1,0 +1,32 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Dosis', sans-serif;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-family: 'Rowdies', sans-serif;
+}
+
+h2 {
+  font-family: 'Rowdies', sans-serif;
+}
+
+.logo {
+  width: 40px;
+  margin-right: 1rem;
+}
+
+.destacados {
+  width: 18rem;
+}
+
+.destacados img {
+  height: 12rem;
+}
